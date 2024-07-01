@@ -1,4 +1,5 @@
-@import './colors';
+@import "./colors";
+@import "./LoginSignUp";
 
 body {
   width: 100vw;
@@ -6,5 +7,5 @@ body {
   margin: 0;
   background: $main-dark-gray-color;
   overflow: hidden;
-  color: white !important;
+  color: rgb(235, 48, 48) !important;
 }
